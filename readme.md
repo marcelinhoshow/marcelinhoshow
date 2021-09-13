@@ -22,7 +22,7 @@
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcelo-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Marcelo-BOSS" src="https://c.tenor.com/Ch4VFEjuI7IAAAAC/anime-boy.gif">
+  <img align="right" alt="Marcelo-BOSS" height="148" width="128" src="https://c.tenor.com/Ch4VFEjuI7IAAAAC/anime-boy.gif">
 </div>
   
   ##
